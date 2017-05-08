@@ -1,5 +1,7 @@
 pragma solidity ^0.4.0;
 
+import "github.com/bitgord/eth-melb-sol/importDapp.sol";
+
 contract testDapp is importDapp{
     
     uint myVar;
